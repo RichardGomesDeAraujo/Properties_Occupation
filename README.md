@@ -75,6 +75,13 @@ Considerando que quanto melhor é a avaliação, maior é o faturamento com loca
 
 ![**imagem**](third_question.png)
 
+> ## Quarta Solicitação
+A média apurada de antecedência no período analisado foi de 38 dias (arredondando o resultado).
+
+Ao observar o gráfico abaixo, podemos considerar que praticamente não existe diferença de antecedência entre os dias da semana.
+
+![**imagem**](fourth_question.png)
+
 
 
       
