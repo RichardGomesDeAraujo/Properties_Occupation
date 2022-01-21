@@ -25,10 +25,8 @@ Foi solicitado uma análise de dados de ocupação e preço de anúncios no Airb
 Como objetivo, foi proposto ordenar os dados e responder algumas perguntas:
 - 1º)  Ordene os bairros em ordem crescente de número de listings
 - 2º)  Ordene os bairros em ordem crescente de faturamento médio dos listings
-- 3º)  Existem correlações entre as características de um anúncio e seu faturamento?
-      a. Quais? Explique
-- 4º)  Qual a antecedência média das reservas?
-      a. Esse número é maior ou menor para finais de semana?     
+- 3º)  Existem correlações entre as características de um anúncio e seu faturamento? Quais? Explique
+- 4º)  Qual a antecedência média das reservas? Esse número é maior ou menor para finais de semana?     
 
 <p>  <br>
   </p>
