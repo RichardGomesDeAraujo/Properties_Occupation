@@ -104,6 +104,7 @@ Ao observar o gráfico abaixo, podemos considerar que praticamente não existe d
   
 > ## Conclusões
 Após análise dos dados, podemos concluir que:
+
     - O bairro Ingleses tem o maior número de anúncios
     - O bairro Ingleses tem o maior faturamento total, e o segundo melhor faturamento médio
     - O bairro Jurerê tem o maior faturamento médio
