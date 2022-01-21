@@ -52,9 +52,16 @@ Dados agrupados por bairro (suburb), e ordenados por número do anúncio (listin
 ![**imagem**](first_question1.png)
 
 > ## Segunda Solicitação
-Dados agrupados por bairro (suburb), e ordenados pelo faturamento médio, do menor para o maior valor
+Dados agrupados por bairro (suburb), e ordenados pelo faturamento médio (price_string), do menor para o maior valor
+Obs: Nessa planilha, podemos verificar que o bairro Jurerê tem o maior faturamento médio no período
 
-![**imagem**](first_question1.png)
+![**imagem**](second_question.png)
+
+> ## Terceira Solicitação
+
+![**imagem**](second_question.png)
+
+
 
       
  
