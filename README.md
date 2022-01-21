@@ -46,8 +46,17 @@ Foram disponibilizados dois arquivos .csv para as análises.
     -  Ordenar dados com comando categorias do pandas (pd.Categorical)
 
 # Análise dos Dados e Observações
-> Primeira Solicitação
-![**imagem**](Registros_Dia_Semana.png)
+> ## Primeira Solicitação
+Dados agrupados por bairro (suburb), e ordenados por número do anúncio (listing)
+
+![**imagem**](first_question1.png)
+
+> ## Segunda Solicitação
+Dados agrupados por bairro (suburb), e ordenados pelo faturamento médio, do menor para o maior valor
+
+![**imagem**](first_question1.png)
+
+      
  
 
 
