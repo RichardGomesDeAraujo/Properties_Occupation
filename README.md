@@ -6,9 +6,9 @@ Analisar dados de ocupação e preço de anúncios no Airbnb
   
 # Índice
 - [Solicitações](README.md#Solicitações)
-- Objetivos
-- Linguagem Utilzada para Análise
-- Análise dos dados e Observações
+- [Objetivos](README.md#Ojetivos)
+- [Linguagem Utilzada para Análise](README.md#Linguagem Utilizada para Análise)
+- [Análise dos Dados e Observações](README.md#Análise dos Dados e Observações
 - [**Arquivo em Python**](Seazone_Data_Analysis.ipynb)
 
 <p>  <br>
