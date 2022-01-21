@@ -1,17 +1,25 @@
 # Properties_Occupation
 Analisar dados de ocupação e preço de anúncios no Airbnb
 
+<p>  <br>
+  </p>
+  
 # Índice
 - Solicitações
 - Objetivos
-- Tipos de Análise
-- Analisando com Python
-- Preparação do Banco de Dados (SQL Server)
+- Linguagem Utilzada para Análise
+- Análise dos dados e Observações
+- [**Arquivo em Python**](Query_Union_ALL)
 
-
+<p>  <br>
+  </p>
+  
 # Solicitações
 Foi solicitado uma análise de dados de ocupação e preço de anúncios no Airbnb
 
+<p>  <br>
+  </p>
+  
 # Objetivos
 Como objetivo, foi proposto ordenar os dados e responder algumas perguntas:
 - 1º)  Ordene os bairros em ordem crescente de número de listings
@@ -21,21 +29,22 @@ Como objetivo, foi proposto ordenar os dados e responder algumas perguntas:
 - 4º)  Qual a antecedência média das reservas?
       a. Esse número é maior ou menor para finais de semana?     
 
-# Tipos de Análise
-- 1º Método:  Análise com Python, Gráficos com Python
-- 2º Método:  Análise com SQL Server, Gráficos com PowerBI
+<p>  <br>
+  </p>
+  
+# Linguagem Utilizada para Análise
+Análise realizada com Python
 
-# Analisando com Python
 Foram disponibilizados dois arquivos .csv para as análises.
 - desafio_details.csv (4.691 registros)
 - desafio_priceav.csv (354.520 registros)
 - O Período analisado está entre 02/11/2020 e 30/03/2021
-- Foram utilizadas as seguintes bibliotecas:
+- Foram utilizadas as seguintes bibliotecas do Python:
     - Pandas
     - Numpy
     - Matplotlib
     - Datetime
- - Foram efetuados comandos para:
+ - Foram efetuados os seguintes comandos para:
     -  Agrupar, Somar, Contar, Ordenar e Média dos registros (groupby, sum, count, sort_values, mean)
     -  Criar e editar gráficos (plot, xlabel, title, etc...)
     -  Alterar tipos de dados e trocar dados nulos (astype, str.replace) 
@@ -45,12 +54,18 @@ Foram disponibilizados dois arquivos .csv para as análises.
     -  Extrair números inteiros de coluna timedelta64 (dt.days)
     -  Ordenar dados com comando categorias do pandas (pd.Categorical)
 
+<p>  <br>
+  </p>
+  
 # Análise dos Dados e Observações
 > ## Primeira Solicitação
 Dados agrupados por bairro (suburb), e ordenados por número do anúncio (listing)
 
 ![**imagem**](first_question1.png)
 
+<p>  <br>
+  </p>
+  
 > ## Segunda Solicitação
 Dados agrupados por bairro (suburb), e ordenados pelo faturamento médio (price_string), do menor para o maior valor
 
@@ -75,12 +90,33 @@ Considerando que quanto melhor é a avaliação, maior é o faturamento com loca
 
 ![**imagem**](third_question.png)
 
+<p>  <br>
+  </p>
+  
 > ## Quarta Solicitação
 A média apurada de antecedência no período analisado foi de 38 dias (arredondando o resultado).
 
 Ao observar o gráfico abaixo, podemos considerar que praticamente não existe diferença de antecedência entre os dias da semana.
 
 ![**imagem**](fourth_question.png)
+
+<p>  <br>
+  </p>
+  
+> ## Conclusões
+Após análise dos dados, podemos concluir que:
+    - O bairro Ingleses tem o maior número de anúncios
+    - O bairro Ingleses tem o maior faturamento total, e o segundo melhor faturamento médio
+    - O bairro Jurerê tem o maior faturamento médio
+    - O bairro Centro tem o menor faturamento total e o menor faturamento médio
+
+<p>  <br>
+  </p>
+  
+> ## Autor do Projeto
+Projeto Realizado por Richard Gomes de Araújo em Janeiro/2022
+- [**Linkedin**](https://www.linkedin.com/in/richardaraujoanalistadedados/)
+
 
 
 
