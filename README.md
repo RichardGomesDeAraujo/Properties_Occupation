@@ -35,8 +35,8 @@ Como objetivo, foi proposto ordenar os dados e responder algumas perguntas:
 Análise realizada com Python
 
 Foram disponibilizados dois arquivos .csv para as análises.
-- desafio_details.csv (4.691 registros)
-- desafio_priceav.csv (354.520 registros)
+- [desafio_details.csv](desafio_details.csv) (4.691 registros)
+- [desafio_priceav.csv](desafio_priceav.csv) (354.520 registros)
 - O Período analisado está entre 02/11/2020 e 30/03/2021
 - Foram utilizadas as seguintes bibliotecas do Python:
     - Pandas
