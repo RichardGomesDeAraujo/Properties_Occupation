@@ -1,3 +1,5 @@
+<img src="HOD.png" align="Center" alt="Hands On Data" style="height: 180px; width:260px;"/>
+
 # Properties_Occupation
 Analisar dados de ocupação e preço de anúncios no Airbnb
 
